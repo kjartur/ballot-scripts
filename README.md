@@ -7,8 +7,8 @@ These scrips can give voting rights, cast votes, delegate votes and query result
 
 We should then write a report with both:
 
-Function execution
-Transaction hash (if successful)
-Revert reason (if failed)
+- Function execution
+- Transaction hash (if successful)
+- Revert reason (if failed)
 
 We can submit this by including a link to this github repository in the form
