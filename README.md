@@ -1,13 +1,15 @@
-# ballot-scripts
+# baseenv
 
-# First commit test for C.J - Group Instructions
+To install dependencies:
 
-Our task is to develop and run scripts for “Ballot.sol” within our group.
-These scrips can give voting rights, cast votes, delegate votes and query results.
+```bash
+bun install
+```
 
-We should then write a report including:
+To run:
 
-- Each function execution & its transaction hash (if successful)
-- Revert reason (if failed)
+```bash
+bun run index.ts
+```
 
-We can submit this by including a link to this github repository in the form
+This project was created using `bun init` in bun v1.0.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
