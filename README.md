@@ -1,6 +1,6 @@
 # ballot-scripts
 
-# First commit test for C.J - Group Instructions
+# Group Instructions
 
 Our task is to develop and run scripts for “Ballot.sol” within our group.
 These scrips can give voting rights, cast votes, delegate votes and query results.
