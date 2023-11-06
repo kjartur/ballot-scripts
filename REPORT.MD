@@ -12,6 +12,7 @@ Dani:
 - Used 'scripts/DelegateTo.ts' to delegate the vote on 0x60d06c940AE0e7B7849b34d4363823Ba33fA1052 but it failed due to shortMessage: 'execution reverted: "You already voted."
 
 Kjartan:
+
 -Used 'scripts/KjartanDeployWithEthers.ts' to deploy the contract to: 0x6a08E90FfF6052baa2A0c2C721B56136C872F3C5 
 (Etherscan: https://sepolia.etherscan.io/tx/0x8724c0b2153559bcf51153d4ce03215a5d09d2c7f6a65cc98b6f7110753138ee)
 
