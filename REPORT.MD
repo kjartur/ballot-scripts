@@ -10,3 +10,8 @@ Dani:
 - Used 'scripts/GiveVotingRights.ts'to give right to vote on the address 0x60d06c940AE0e7B7849b34d4363823Ba33fA1052 (Transaction 0xed99d5ce99d9c4419761b40f65ae9e9f1f28c5e14e0675595b8b9efa4d93acc6)
 - Used 'scripts/CastVote.ts' to Cast a vote from the address/wallet authorized in the previous step (Transaction 0xf481e918bb31560b118ba4e01e668f2a6a4c237796a696ceb297d48e105c6ed7) 
 - Used 'scripts/DelegateTo.ts' to delegate the vote on 0x60d06c940AE0e7B7849b34d4363823Ba33fA1052 but it failed due to shortMessage: 'execution reverted: "You already voted."
+
+Kjartan:
+-Used 'scripts/KjartanDeployWithEthers.ts' to deploy the contract to: 0x6a08E90FfF6052baa2A0c2C721B56136C872F3C5 
+(Etherscan: https://sepolia.etherscan.io/tx/0x8724c0b2153559bcf51153d4ce03215a5d09d2c7f6a65cc98b6f7110753138ee)
+
